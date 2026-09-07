@@ -10,13 +10,13 @@ Right now I'm working through a 28-week push into AI workflow automation. n8n Ac
 
 What I'm building
 
-n8n-automations — weekly automation builds, one folder per week. Each ships with the workflow, the reasoning behind the node choices, and an honest account of what broke.
+n8n-automations: weekly automation builds, one folder per week. Each ships with the workflow, the reasoning behind the node choices, and an honest account of what broke.
 
 Four questions I ask of anything I build, because they decide whether it survives contact with production:
 
-Idempotency — what happens if this runs twice?
-Error handling — retries, backoff, and where failures land when nobody is watching
-Cost — which steps genuinely need an LLM, and which are just plumbing
-Verification — how do I know it worked, rather than assuming it did
+Idempotency: what happens if this runs twice?
+Error handling: retries, backoff, and where failures land when nobody is watching
+Cost: which steps genuinely need an LLM, and which are just plumbing
+Verification: how do I know it worked, rather than assuming it did
 
 Atlanta, GA · LinkedIn

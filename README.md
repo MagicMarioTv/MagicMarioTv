@@ -6,11 +6,11 @@ At **Warner Bros. Discovery** I run encoding and OTT delivery operations for Max
 
 Before that, six years in master control at Cox Media Group, where live television taught me that systems fail and what matters is how fast you see it.
 
-Right now I'm working through a 28-week push into AI workflow automation. n8n Academy N8N101 and N8N102 done, N8N103 next, plus agent patterns, RAG, and the Model Context Protocol. AWS AI Practitioner (AIF-C01) exam targeted for September 2026.
+Right now I'm working through a 28-week push into AI workflow automation. The n8n Academy Foundations track is finished, N8N101 through N8N103, and I'm partway through Hugging Face's AI Agents course with the fundamentals certificate earned. Alongside those: agent patterns, RAG, and the Model Context Protocol. AWS AI Practitioner (AIF-C01) exam targeted for October 2026.
 
 ## What I'm building
 
-**[n8n-automations](https://github.com/MagicMarioTv/n8n-automations)**: weekly automation builds, one folder per week. Each ships with the workflow, the reasoning behind the node choices, and an honest account of what broke.
+**[n8n-automations](https://github.com/MagicMarioTv/n8n-automations)**: weekly automation builds, one folder per build. Each ships with the workflow, the reasoning behind the node choices, and an honest account of what broke.
 
 Four questions I ask of anything I build, because they decide whether it survives contact with production:
 

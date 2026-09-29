@@ -6,7 +6,7 @@ At **Warner Bros. Discovery** I run encoding and OTT delivery operations for Max
 
 Before that, six years in master control at Cox Media Group, where live television taught me that systems fail and what matters is how fast you see it.
 
-Right now I'm working through a 28-week push into AI workflow automation. The n8n Academy Foundations track is finished, N8N101 through N8N103, and I'm partway through Hugging Face's AI Agents course with the fundamentals certificate earned. Alongside those: agent patterns, RAG, and the Model Context Protocol. AWS AI Practitioner (AIF-C01) exam targeted for October 2026.
+Right now I'm working through a 28-week push into AI workflow automation. The n8n Academy Foundations track is finished, N8N101 through N8N103, and I've completed Hugging Face's AI Agents course; my final agent scored 18 of 20 on a subset of the GAIA benchmark. Alongside those: agent patterns, RAG, and the Model Context Protocol. AWS AI Practitioner (AIF-C01) exam targeted for October 2026.
 
 ## What I'm building
 

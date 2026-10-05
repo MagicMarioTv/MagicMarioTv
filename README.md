@@ -6,7 +6,7 @@ At **Warner Bros. Discovery** I run encoding and OTT delivery operations for Max
 
 Before that, six years in master control at Cox Media Group, where live television taught me that systems fail and what matters is how fast you see it.
 
-Right now I'm working through a 28-week push into AI workflow automation. The n8n Academy Foundations track is finished, N8N101 through N8N103, and I've completed Hugging Face's AI Agents course; my final agent scored 18 of 20 on a subset of the GAIA benchmark. I passed Anthropic's [Claude Certified Associate, Foundations](https://www.credly.com/badges/60789d91-265e-447e-a52f-1d64f2aa2a3f) exam in August 2026, and I've completed Anthropic Academy's two Model Context Protocol courses, Introduction to MCP and MCP: Advanced Topics. AWS AI Practitioner (AIF-C01) exam scheduled for October 2026.
+Right now I'm working through a 28-week push into AI workflow automation. I passed Anthropic's [Claude Certified Associate, Foundations](https://www.credly.com/badges/60789d91-265e-447e-a52f-1d64f2aa2a3f) exam in August 2026. The n8n Academy Foundations track is finished, N8N101 through N8N103, and I've completed Hugging Face's AI Agents course; my final agent scored 18 of 20 on a subset of the GAIA benchmark. I've also completed Anthropic Academy's two Model Context Protocol courses, Introduction to MCP and MCP: Advanced Topics. AWS AI Practitioner (AIF-C01) exam scheduled for October 2026.
 
 ## What I'm building
 
